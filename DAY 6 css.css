@@ -1,0 +1,47 @@
+
+       /* h1{
+            color: darkcyan;
+        }
+        h2{
+            color: rgb(86, 86, 128);
+        }
+        p{
+            color: aquamarine;
+        }*/
+
+.a{
+    color: aqua;
+}
+/*#p3{ 
+    color: blueviolet;
+    font-weight: bold;
+}*/
+#p2{
+    color:yellow
+}
+div p{
+    color: brown;
+    font-weight: bolder;
+
+}
+
+ol>li{
+    color: blue;
+}
+
+ul>li{
+    color: cadetblue;
+}
+p+p{
+    color: coral;
+}
+
+.ab{
+    color:green;
+
+}
+.ab:hover{
+    color: chartreuse;
+    cursor: pointer;
+    
+}

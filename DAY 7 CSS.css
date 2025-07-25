@@ -1,0 +1,25 @@
+div{
+    color: beige;
+    weight: 70px;
+    height: 70px;
+
+    border: 2px solid red;
+    position: sticky;
+    top: 10px;
+}
+h4{
+    color: brown;
+}
+p{
+    color: azure;
+}
+.font{
+    font-size: 100px;
+}
+
+.fontfam{
+    font-family: cursive;
+}
+.align{
+    text-align:right;
+}
